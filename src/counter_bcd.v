@@ -3,7 +3,7 @@
 module counter_bcd(   input clk,
                       input enable,
                       input reset,
-                      output reg [0:3] bcd,
+                      output reg [3:0] bcd,
                       output cnt_9);
   
   always @(negedge clk) begin
