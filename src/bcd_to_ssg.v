@@ -2,5 +2,15 @@
 
 module bcd_to_ssg ( input [3:0] bcd,
                     output [6:0] ssg);
-// Inserir codigo de funcionamento para conversor bcd para sete segmentos
-endmodule
+ assign ssg = ( bcd == 4'b0000 ) ? 7'b1111110 : //0
+              ( bcd == 4'b0001 ) ? 7'b0110000 : //1
+              ( bcd == 4'b0010 ) ? 7'b1101101 : //2
+              ( bcd == 4'b0011 ) ? 7'b1111001 : //3
+              ( bcd == 4'b0100 ) ? 7'b0110011 : //4
+              ( bcd == 4'b0101 ) ? 7'b1011011 : //5
+              ( bcd == 4'b0110 ) ? 7'b1011111 : //6
+              ( bcd == 4'b0111 ) ? 7'b1110000 : //7
+              ( bcd == 4'b1000 ) ? 7'b1111111 : //8
+              ( bcd == 4'b1001 ) ? 7'b1111011 : //9
+                                   7'b1001111 ; //?
+endmodule 
