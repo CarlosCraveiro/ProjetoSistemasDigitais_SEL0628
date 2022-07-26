@@ -5,7 +5,10 @@ module counter_bcd(   input clk,
                       input reset,
                       output reg [3:0] bcd,
                       output cnt_9);
-  
+  initial begin
+    bcd = 0;
+    cnt_9 = 0;
+  end
   always @(posedge clk) begin
     if (reset) begin
       bcd = 0;
