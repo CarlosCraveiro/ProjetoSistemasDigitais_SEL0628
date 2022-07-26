@@ -1,0 +1,8 @@
+# Arquivos VCD gerados pela simulacao
+*.vcd
+
+# Codigos fonte da simulacao otimizados pelo icarus
+sim/src/*.v
+
+# Executavel da simulacao
+sim/*.simul
