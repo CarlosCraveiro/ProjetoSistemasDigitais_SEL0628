@@ -1,6 +1,14 @@
 # ProjetoSistemasDigitais_SEL0628
 Repositório para organizar o projeto final da disciplina de Sistemas Digitais - SEL0628
 
+#Grupo2_Alunos
+Asafe Henrique de Oliveira França - 12745212
+Barbara Fernandes Madera - 11915032
+Carlos Henrique Craveiro Aquino Veras - 12547187
+Guilherme Castanon Silva Pereira - 11801140
+Mateus Santos Messias - 12548000
+Pedro Borges Gudin - 12547997
+
 ## Organização de pastas
 - Pasta \src -> Arquivos fonte dos circuitos digitais
 - Pasta \rtl -> Scripts para geração dos rtls das partes 3 e 4
