@@ -2,7 +2,8 @@
 Repositório para organizar o projeto final da disciplina de Sistemas Digitais - SEL0628
 
 # Grupo 2 -
-Asafe Henrique de Oliveira França - 12745212
+Asafe Henrique de Oliveira França - 
+12745212
 Barbara Fernandes Madera - 11915032
 Carlos Henrique Craveiro Aquino Veras - 12547187
 Guilherme Castanon Silva Pereira - 11801140
