@@ -15,3 +15,7 @@ $ make simulation
 $ make run
 ```
 O Makefile também possui o alvo "clean"
+
+### Observação
+É fornecido para a simulação um arquivo de test_bench escrito em verilog que encontra-se no diretório `\sim`.
+Também é informado que o projeto foi desenvolvido em um sistema linux.
