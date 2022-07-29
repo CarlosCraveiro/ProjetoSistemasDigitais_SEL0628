@@ -1,7 +1,7 @@
 # ProjetoSistemasDigitais_SEL0628
 Repositório para organizar o projeto final da disciplina de Sistemas Digitais - SEL0628
 
-# Grupo2_Alunos
+# Grupo 2 -
 Asafe Henrique de Oliveira França - 12745212
 Barbara Fernandes Madera - 11915032
 Carlos Henrique Craveiro Aquino Veras - 12547187
